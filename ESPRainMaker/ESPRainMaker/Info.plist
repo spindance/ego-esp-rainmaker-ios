@@ -25,7 +25,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.espressif.rainmaker.softap</string>
+				<string>com.spindance.egorainmakertest</string>
 			</array>
 		</dict>
 	</array>
