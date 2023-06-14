@@ -7,9 +7,9 @@
 		<key>App Client ID</key>
 		<string>{CLIENT_ID}</string>
 		<key>Authentication URL</key>
-		<string>https://test-ego-p3-design-stack.auth.eu-west-1.amazoncognito.com/oauth2</string>
+		<string>https://iot-staging-egoproducts.auth.eu-west-1.amazoncognito.com/oauth2</string>
 		<key>Base URL</key>
-		<string>https://tvt9sm00pg.execute-api.eu-west-1.amazonaws.com/dev</string>
+		<string>https://o5dcxi6mge.execute-api.eu-west-1.amazonaws.com/dev</string>
 		<key>Redirect URL</key>
 		<string>com.spindance.egorainmakertest://success</string>
 	</dict>
